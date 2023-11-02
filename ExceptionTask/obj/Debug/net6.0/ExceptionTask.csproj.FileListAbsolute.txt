@@ -1,0 +1,42 @@
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.exe
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.deps.json
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.runtimeconfig.json
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.dll
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.pdb
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfo.cs
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.dll
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\refint\ExceptionTask.dll
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.pdb
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.genruntimeconfig.cache
+C:\Users\Birinci novbe\Desktop\New folder\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ref\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\refint\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.pdb
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.exe
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.deps.json
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.pdb
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\in uni\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ref\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.exe
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.deps.json
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\bin\Debug\net6.0\ExceptionTask.pdb
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\refint\ExceptionTask.dll
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.pdb
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ExceptionTask.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\ExceptionTask\ExceptionTask\obj\Debug\net6.0\ref\ExceptionTask.dll
